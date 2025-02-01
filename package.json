@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/Mariela12ad/Bot-Mystic-",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/Mariela12ad/Bot-Mystic-.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://github.com/Mariela12ad/Bot-Mystic-/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -40,7 +40,6 @@
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^8.0.0",
     "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.2",
-    "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.6.2",
     "aptoide-scraper": "^1.0.1",
@@ -51,6 +50,7 @@
     "chalk": "^5.0.0",
     "chart.js": "^4.4.2",
     "cheerio": "^1.0.0-rc.10",
+    "ruhend-scraper": "^7.0.4",
     "colors": "1.4.0",
     "d3-node": "^3.0.0",
     "esm": "^3.2.25",
